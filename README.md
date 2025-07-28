@@ -1,5 +1,9 @@
+# Fork of MakD's zombie-theme, *no other themes have been changed*
 
-Installer Link - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/zombie_revived.css);`
+- This only changes the colors of a few buttons that were showing up dark grey on dark grey
+
+- Use the installer link below to reference this repository
+Installer Link - `@import url(https://clairdecoder.github.io/zombie-release/zombie_revived.css);`
 
 Color Schemes (Add below the first import. **Apart** from Amazon Prime, and netflix _somewhat_ all schemes look ugly and need to be fixed. Old color schemes [hidden below](https://github.com/MakD/zombie-release/tree/main#color-palettes), and the ones from Zesty are still compatible)
 
